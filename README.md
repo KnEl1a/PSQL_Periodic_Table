@@ -39,13 +39,13 @@ This Bash script 'element.sh' searches for information about a chemical element 
 **Usage:**
 
 ```
-./element_search.sh <element_name_or_atomic_number>
+./element.sh <element_name_or_atomic_number>
 ```
 
 **Example:**
 
 ```
-./element_search.sh Hydrogen
+./element.sh Hydrogen
 ```
 
 **Output:**
