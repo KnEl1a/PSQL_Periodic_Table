@@ -54,8 +54,3 @@ This Bash script 'element.sh' searches for information about a chemical element 
 The element with atomic number 1 is Hydrogen (H). It's a nonmetal, with a mass of 1.008 amu. Hydrogen has a melting point of -259.1 celsius and a boiling point of -252.9 celsius.
 ```
 
-**Note:**
-
-* This script requires `psql` to be installed on the system.
-* The script assumes the database schema matches the one used in the provided dump file.
-
